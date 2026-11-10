@@ -63,4 +63,72 @@ A base disponibilizada no projeto contém somente os campos utilizados na análi
 
 ## 🎯 Perguntas de negócio
 
-O dashboard foi desenvolvido
+O dashboard foi desenvolvido para ajudar a responder às seguintes perguntas:
+
+- Qual é a receita total gerada pelas vendas?
+- Quantos veículos foram vendidos?
+- Qual é o ticket médio das vendas?
+- Quais modelos geraram maior receita?
+- Quais métodos de pagamento são mais utilizados?
+- Quais estados apresentam maior volume de vendas?
+- Como os resultados podem ser explorados por meio de filtros?
+
+## 🚀 Como executar o projeto
+
+O projeto utiliza uma estrutura estática, sem necessidade de instalação de dependências ou configuração de servidor backend.
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/Brtkviktor/porsche-sales-dashboard.git
+```
+
+2. Entre na pasta:
+
+```bash
+cd porsche-sales-dashboard
+```
+
+3. Abra o arquivo `index.html` no navegador.
+
+## 🌐 Acesso online
+
+O projeto foi preparado para publicação utilizando GitHub Pages.
+
+**Repositório:**  
+https://github.com/Brtkviktor/porsche-sales-dashboard
+
+**Dashboard online:**  
+Acesse após habilitar o GitHub Pages:  
+https://brtkviktor.github.io/porsche-sales-dashboard/
+
+## 📸 Screenshots
+
+As capturas de tela do dashboard serão adicionadas nesta seção.
+
+```text
+screenshots/
+```
+
+## 🤖 Utilização de Inteligência Artificial
+
+A Inteligência Artificial foi utilizada como ferramenta de apoio durante o desenvolvimento, auxiliando em:
+
+- Estruturação do dashboard.
+- Organização dos indicadores e gráficos.
+- Implementação de filtros interativos.
+- Revisão e documentação do código.
+- Organização das etapas de desenvolvimento.
+
+As decisões de implementação, validação dos resultados e organização final do projeto fizeram parte do processo de desenvolvimento.
+
+## 📌 Objetivo do projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar análise de dados, manipulação de informações, visualização de indicadores e desenvolvimento de interfaces interativas.
+
+Também faz parte da construção de um portfólio de projetos voltado à área de tecnologia.
+
+---
+
+**Desenvolvido por [Brtkviktor](https://github.com/Brtkviktor)**  
+Projeto de estudo e portfólio.
